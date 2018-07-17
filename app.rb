@@ -7,7 +7,9 @@ module FormsLab
       erb :new
     end
 
-    post
+    post '/pirates' do
+      
+    end
 
   end
 end
