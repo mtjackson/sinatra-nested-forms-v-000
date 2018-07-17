@@ -7,5 +7,7 @@ module FormsLab
       erb :new
     end
 
+    post
+
   end
 end
